@@ -8,4 +8,5 @@ add_executable(AnalysisLabProject
         main.cpp
         helperFunc.h
         dpAlgorithm.h
-        transformAndConquer.h)
+        transformAndConquer.h
+        main.cpp)
