@@ -7,4 +7,5 @@ add_executable(AnalysisLabProject
         bruteForce.h
         main.cpp
         helperFunc.h
-        dpAlgorithm.h)
+        dpAlgorithm.h
+        transformAndConquer.h)
