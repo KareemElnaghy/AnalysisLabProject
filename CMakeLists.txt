@@ -6,7 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(AnalysisLabProject
         bruteForce.h
         main.cpp
-        helperFunc.h
         dpAlgorithm.h
         transformAndConquer.h
         main.cpp)
